@@ -11,4 +11,6 @@ http://htk.eng.cam.ac.uk/ <br><br>
 
 https://simon.kde.org/ <br><br>
 
-http://julius.osdn.jp/en_index.php <br><br>
+http://julius.osdn.jp/en_index.php ; https://github.com/julius-speech/julius <br><br>
+
+https://www.isip.piconepress.com/projects/speech/ <br><br>
